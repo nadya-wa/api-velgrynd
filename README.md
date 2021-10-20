@@ -8,8 +8,6 @@ Create New App ( App Name For Example : abcd-api)
 
 <img src="https://i.postimg.cc/Z5T8Btw2/newapp.png" width="300">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ultimareall/api-velgrynd/)
-
 # Note
 - Project ini open source
 - Tidak untuk di perjual belikan
