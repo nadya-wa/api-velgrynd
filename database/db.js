@@ -3,9 +3,9 @@ monk = require('monk'),
 { color } = require(__path + '/lib/color.js')
 
 // Connection URL
-let url = 'https://api-velgrynd.herokuapp.com';
+let url = 'mongodb+srv://mikuxyz:mikuchan@cluster0.ncb6t.mongodb.net/?retryWrites=true&w=majority';
 try {
-if(url == 'https://api-velgrynd.herokuapp.com') throw console.log(color('Cek konfigurasi database, var url belum diisi','red'));
+if(url == 'mongodb+srv://mikuxyz:mikuchan@cluster0.ncb6t.mongodb.net/?retryWrites=true&w=majority') throw console.log(color('Cek konfigurasi database, var url belum diisi','red'));
 } catch (e) {
 return;
 }
